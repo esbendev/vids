@@ -4,7 +4,7 @@
 
 ## descripción:
 
-Te puedes convertir en miembro yendo al siguiente link: https://www.youtube.com/channel/UCTMEgf6VREfyWOuRfu0xWlg/join
+Te puedes convertir en miembro [haciendo click aquí](https://www.youtube.com/channel/UCTMEgf6VREfyWOuRfu0xWlg/join)
 
 Link a video de ventoy: https://www.youtube.com/watch?v=9wHP8GSCHSk
 Wiki de CachyOS: https://wiki.cachyos.org/

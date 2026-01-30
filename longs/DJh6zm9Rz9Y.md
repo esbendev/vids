@@ -6,7 +6,7 @@
 
 En este video, continuamos nuestra búsqueda del escritorio perfecto para el 2026 en el mundo de Linux. Probamos Cinnamon, Budgie y Deepin, corriendo las mismas pruebas que en el video anterior para comparar su rendimiento y eficiencia. Si eres un entusiasta de los entornos de escritorio Linux, esta guía te ayudará a encontrar el mejor linux desktop environment para tus necesidades. ¡No se pierdan los resultados comparativos de todos los escritorios probados hasta ahora! 👍
 
-Te puedes convertir en miembro yendo al siguiente link: https://www.youtube.com/channel/UCTMEgf6VREfyWOuRfu0xWlg/join
+Te puedes convertir en miembro [haciendo click aquí](https://www.youtube.com/channel/UCTMEgf6VREfyWOuRfu0xWlg/join)
 
 
 
