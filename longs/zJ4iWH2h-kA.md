@@ -68,8 +68,11 @@ sudo pacman -Rns $(pacman -Qdtq)
 ```
 
 ## Script para automatizar las pruebas
+@makiudon-qb7gh me recomendó usar #!/usr/bin/env bash en lugar de #!/bin/bash
+así que lo actualizamos! :)
+
 ```bash
-#!/bin/bash
+#!/usr/bin/env bash
 
 # primero hago free -h y guardo
 # la cantidad de memoria usada en una variable
