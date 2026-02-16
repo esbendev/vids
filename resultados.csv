@@ -1,0 +1,9 @@
+prueba,sin nada,GNOME,KDE Plasma,Cosmic,Cinnamon,Budgie,Deepin,xfce4,lxqt,mate,sway,hyprland
+RAM,596Mi,1.7Gi,2.1Gi,1.9Gi,1.1Gi,1.2Gi,1.1Gi,958Mi,877Mi,955Mi,796Mi,1.0Gi
+10 procesos más pesados,0.10%,21.50%,16.70%,17.60%,10.20%,12.20%,54.80%,5.00%,5.10%,14.70%,2.20%,4.40%
+10 procesos más pesados,0.00%,2.40%,5.20%,5.30%,1.90%,1.30%,2.40%,1.40%,1.00%,1.40%,0.20%,1%
+sysbench CPU (eventos / s),4347.84,4198.94,4136.17,3912.5,3710.62,3664.3,3595.63,3791.74,3652.87,3588.85,3891.55,3733.02
+sysbench IO (operaciones / s),6955140.54,6926622.87,6788810.56,6432470.48,6231168.6,6012100.67,5773473.08,6255978.29,5885765.66,5794727.98,6315822.55,6315822.55
+firefox 4 pestañas,No aplica,2.8Gi,3.7Gi,3.4Gi,2.4Gi,2.5Gi,2.6Gi,2.4Gi,2.4Gi,2.5Gi,2.3Gi,2.4Gi
+cantidad de daemons,14,59,42,23,27,18,41,14,16,18,8,9
+¿cuánto me gusta la interfaz?,No aplica,3,2,3,3,4,3,4,4,4,5,5
