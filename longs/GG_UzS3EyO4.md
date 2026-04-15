@@ -8,11 +8,11 @@ En este video, continuamos configurando hyprland desde cero, enfocándonos en so
 
 ### Links mencionados
 
-[repo oficial](https://github.com/alexays/waybar)
-[wiki de hyprland](https://wiki.hypr.land/Useful-Utiliti...)
-[catpuccin para waybar](https://github.com/catppuccin/waybar)
-[archivos de configuración de catpuccin para waybar](https://github.com/rubyowo/dotfiles/tree/f925cf8e3461420a21b6dc8b8ad1190107b0cc56/config/waybar)
-[el css de mocca que usé](https://github.com/catppuccin/waybar/releases/tag/v1.1)
+- [repo oficial](https://github.com/alexays/waybar)
+- [wiki de hyprland](https://wiki.hypr.land/Useful-Utiliti...)
+- [catpuccin para waybar](https://github.com/catppuccin/waybar)
+- [archivos de configuración de catpuccin para waybar](https://github.com/rubyowo/dotfiles/tree/f925cf8e3461420a21b6dc8b8ad1190107b0cc56/config/waybar)
+- [el css de mocca que usé](https://github.com/catppuccin/waybar/releases/tag/v1.1)
 
 ### comandos usados
 
