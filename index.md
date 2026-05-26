@@ -1,5 +1,12 @@
 # videos
 ![youtube banner](imagenes/banner.png)
+- [¿¡Github se está muriendo!?](longs/RYCg4iQXtgw.md)
+- [!La terminal más útil! (kitty con starship, eza, fzf, bat)](longs/xDlWKhbzIe0.md)
+- [Chau .conf, hola .lua (hyprland 0.55)](longs/K-qWPLekzW4.md)
+- [Tu terminal merece verse así de bien!](longs/XJUssp_Svqc.md)
+- [¿Cansado de romper tu Hyprland.conf? ¡Mira esto!](longs/TULpCoxvA74.md)
+- [hyprland ricing - ¡fondos de pantalla con hyprpaper!](longs/d4xByVYV_Wg.md)
+- [hyprland ricing - ¡empezamos con waybar!](longs/GG_UzS3EyO4.md)
 - [Instala Hyperland en Arch Linux desde CERO y FACIL](longs/0HDOG6iTlsM.md)
 - [¿Cuál usa menos RAM XFCE, LXQT o MATE?](longs/EMM5FuCvPBE.md)
 - [¿Cuál usa menos RAM Cinnamon, Budgie o Deepin?](longs/DJh6zm9Rz9Y.md)
