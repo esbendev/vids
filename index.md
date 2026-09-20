@@ -1,5 +1,6 @@
 # videos
 ![youtube banner](imagenes/banner.png)
+- [Crea tus propias aplicaciónes usando IA](longs/LnODC6BTzmE.md)
 - [¿¡Github se está muriendo!?](longs/RYCg4iQXtgw.md)
 - [!La terminal más útil! (kitty con starship, eza, fzf, bat)](longs/xDlWKhbzIe0.md)
 - [Chau .conf, hola .lua (hyprland 0.55)](longs/K-qWPLekzW4.md)
